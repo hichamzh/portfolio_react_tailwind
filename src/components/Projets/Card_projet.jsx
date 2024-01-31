@@ -32,7 +32,7 @@ import {
           className="m-0 rounded-none relative"
           >
           <img
-            src={`src/assets/${projet.img}`}
+            src={projet.img}
             alt="ui/ux review check"
             />
         </CardHeader>
