@@ -14,9 +14,6 @@ const Navbar = () => {
           <li>Contact</li>
         </ul>
       </nav>
-      <button className='ml-4 mt-3 lg:hidden'>
-        <TiThMenu fontSize={30} />
-      </button>
     </>
   );
 };
