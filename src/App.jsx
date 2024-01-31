@@ -10,14 +10,14 @@ function App() {
 
   return (
     <>
-    <section className="main h-screen pt-[2%]">
+    <section className=" h-screen pt-[2%]" id='home'>
     <Navbar/>
     <Main/>
     </section>
-    <section className="skills min-h-screen pt-[2%]">
+    <section className=" min-h-screen pt-[2%]" id='skills'>
     <Skill/>
     </section>
-    <section className='min-h-screen pt-[2%]'>
+    <section className='min-h-screen pt-[2%]' id='projets'>
     <Projet/>
     </section>
     </>

@@ -9,9 +9,16 @@ const Navbar = () => {
           <span>Hicham</span>
         </div>
         <ul className='flex w-1/2 justify-evenly'>
-          <li>Skill</li>
+          <a href="#skills">
+          <li>Compétences</li>
+          </a>
+          <a href="#projets">
           <li>Projet</li>
+          </a>
+          <a href="#contact">
           <li>Contact</li>
+
+          </a>
         </ul>
       </nav>
     </>
