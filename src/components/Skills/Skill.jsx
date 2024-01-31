@@ -5,7 +5,7 @@ const Skill = () => {
     return (
         <>
 
-            <div className='text-5xl text-center mx-auto w-full my-4'>
+            <div className='text-5xl text-center mx-auto w-full my-4 pt-5'>
 
                 <h2>Compétences</h2>
             </div>
