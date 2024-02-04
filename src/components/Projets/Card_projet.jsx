@@ -19,6 +19,13 @@ import {
         link: 'https://meteoappbyhicham.netlify.app/',
         img: 'meteoapp.jpg'
       },
+      {
+        id:2,
+        name: 'Pokédex React Api',
+        description: "Une application web qui permet de voir jusqu'a 99 pokémons grâce à une Api",
+        link: 'https://pokedexreacthichamv1.netlify.app/',
+        img: 'pokedex_react.webp'
+      },
     ]
     return (
       <>
